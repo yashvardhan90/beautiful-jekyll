@@ -2,4 +2,4 @@
 title: Resume
 layout: page
 ---
-({{ "/img/resume_osc.pdf" | absolute_url }})
+({{ "/img/resume.osc.pdf" | absolute_url }})
