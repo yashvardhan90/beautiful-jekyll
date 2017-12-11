@@ -2,8 +2,7 @@
 layout: post
 title: SVM
 subtitle: Binary classification of Phishing Websites
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+
 ---
 
 
