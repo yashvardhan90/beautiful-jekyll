@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Home
+title: Yash Vardhan Sharma
 
 # Short description of your site
-description: Yash Vardhan Sharma
+description: Welcome to Yash's personal webpage and blog
 
 # --- Navigation bar options --- #
 
@@ -104,10 +104,10 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "yashvardhan90-github-com-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-111472353-1"
 
 # Google Tag Manager ID
 #gtm: ""
