@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Welcome to Yash's personal webpage and blog
+title: Yash Vardhan Sharma
 
 # Short description of your site
 description: Welcome to Yash's personal webpage and blog
@@ -51,7 +51,7 @@ avatar: "/img/Yash.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Yash Vardhan Sharma
+  name: Welcome to Yash's personal webpage and blog
   email: "yash27sharma@gmail.com"
   facebook: yourname  # eg. daattali
   github: yashvardhan90    # eg. daattali
