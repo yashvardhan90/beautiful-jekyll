@@ -1,0 +1,33 @@
+# This post is for an assignment in a course.
+# http://people.tamu.edu/~yashvardhan/IR.html
+
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
+kbeznak parmatonic
